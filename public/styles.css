@@ -1,0 +1,57 @@
+body {
+    background-color: #e6e9ef; /* Soft, cool light blue */
+    font-family: 'Arial', sans-serif;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #2c3e50; /* Deep slate blue */
+}
+
+h2 {
+    font-size: 1.75rem;
+    font-weight: 600;
+    color: #34495e; /* Muted navy blue */
+}
+
+.form-group label {
+    font-weight: 500;
+    color: #5d6d7e; /* Soft steel blue */
+}
+
+.btn-primary {
+    background-color: #16a085; /* Vibrant teal */
+    border-color: #16a085;
+}
+
+.btn-primary:hover {
+    background-color: #148f77; /* Darker teal on hover */
+    border-color: #117864;
+}
+
+.card {
+    border-radius: 0.75rem;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+}
+
+.list-group-item {
+    border: none;
+    background-color: #f8f9fa; /* Very light grey */
+    border-radius: 0.5rem;
+    margin-bottom: 0.5rem;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+
+.text-success {
+    color: #1abc9c !important; /* Bright green */
+}
+
+.text-danger {
+    color: #e74c3c !important; /* Vivid red */
+}
+
+.container {
+    max-width: 900px;
+}
